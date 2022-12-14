@@ -1,8 +1,7 @@
 # tech-blog
 
 ## Description
-Provide users the ability to create a database to store and hold product information and retrieve information as well
-
+Provide users the ability to create a create, store and retrieve blog posts
 ## Walkthrough Part 1
 
 
